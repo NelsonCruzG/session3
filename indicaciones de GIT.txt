@@ -1,0 +1,10 @@
+Realizar los siguientes cambios en el projecto de GIT:
+
+1 - Clonar este repositorio en una carpeta, de preferencia vacia, en su equipo. Verificar que estamos en la rama: "Develop"
+2 - En el archivo "index.js" agregar una linea de comando que imprima en consola "Hola desde la PC de: <su nombre>".
+3 - Agregar un archivo llamado "registro <su nombre>" con extension ".js"
+4 - Hacer un comit que diga "Agregar mis referencias"
+5 - Verificar que no hay cambios en el remote
+6 - Si no hay cambios, hacer pull y luego push.
+    Si hay cambios, hacer pull, solventar los conflictos del auto-merge, hacer commit de eso,
+    verificar nuevamente que no hay cambios en el remote, hacer push.
